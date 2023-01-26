@@ -1,0 +1,35 @@
+
+
+.my-form{
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background: #f4f4f4;
+    height: 200px;
+}
+
+#row-1{
+    margin-top: 30px;
+}
+
+.btn{
+   margin-top: 30px;
+   border: 1px solid black;
+   position: relative; 
+   width: 300px;
+   left: 500px;
+   background-color: blueviolet;
+   color: azure;
+}
+
+.editB{
+    margin-left: 5px;
+}
+.deleteB{
+    margin-left: 5px;
+}
+
+.btn:hover{
+    background-color: rgb(80, 24, 132);
+    color: azure;
+}
